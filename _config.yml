@@ -22,7 +22,7 @@ title: Afghan campaign
 author: Andrew Ireson
 email: andrew.ireson@usask.ca
 description: >- # this means to ignore newlines until "baseurl:"
-    SENS Online Program Delivery Taskforce
+    Campaign to support the girls in Afghanistan
 baseurl: "/USASK_Afghan_Support" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
